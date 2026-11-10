@@ -440,10 +440,10 @@ Alex: Formatting
 Try it yourself
 Copy this code into a Colab Notebook.
 
-!git clone https://github.com/sarahchase/cc-f26-group-project.git
-%cd cc-f26-group-project
+!git clone https://github.com/aboni164/White-Karia-Bharath-Bonilla
+%cd White-Karia-Bharath-Bonilla/
 !pip install -r requirements.txt
-from project import generate_poster
+from Project import generate_poster
 generate_poster()
 Or click below to open an example notebook in Google Colab and generate your own poster!
 
