@@ -1,7 +1,7 @@
 # White-Karia-Bharath-Bonilla
 
 
-[Project Title]
+Demon
 Example final poster
 
 Created by: Tyranny, Alex, Nayonika, Ani
@@ -16,10 +16,11 @@ What can the users modify?
 Users can modify the color palette and the arrangement of the designs.
 
 Meet the Designers
-Nayonika:
-Tyranny:
-Ani:
-Alex:
+Nayonika: Coordinate & Grid Architect, Rules & Logic Director
+Tyranny: Typography and Title
+Ani: Create a loop generator that randomizes the color palette and arrangement
+Alex: Formatting
+
 Try it yourself
 Copy this code into a Colab Notebook.
 
