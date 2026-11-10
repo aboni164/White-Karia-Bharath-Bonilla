@@ -13,12 +13,13 @@ The purpose in creating the poster was to experiment with a randomized shapes an
 
 The Interface
 What can the users modify?
+Users can modify the color palette and the arrangement of the designs.
 
 Meet the Designers
-[Student 1]: [Brief description of their tile designs or contribution.]
-[Student 2]: [Brief description of their tile designs or contribution.]
-[Student 3]: [Brief description of their tile designs or contribution.]
-[Student 4]: [Brief description of their tile designs or contribution.]
+Nayonika:
+Tyranny:
+Ani:
+Alex:
 Try it yourself
 Copy this code into a Colab Notebook.
 
